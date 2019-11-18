@@ -9,22 +9,14 @@ Problem: Please write a function in Python that takes an 8x8 grid of letters and
 
 For example, if the list of words is ["algol", "fortran", "simula"] and the grid is:
 
-
- Q W E R T N U I
- 
- O P A A D F G H
- 
- T K L Z X C V B
- 
- N M R W F R T Y
- 
- U I O P A S D F
- 
- G H J O L Z X C
- 
- V B N M Q W E R
- 
- T Y U I O P A S
+        Q W E R T N U I
+        O P A A D F G H
+        T K L Z X C V B
+        N M R W F R T Y
+        U I O P A S D F
+        G H J O L Z X C
+        V B N M Q W E R
+        T Y U I O P A S
 
 ...then the longest word from the list that can be produced using the rules is “fortran”, by starting at the ‘F’ at position (5, 4), and moving to (4, 6), then (3, 4), (1, 3), back to (3, 4) and then (4, 2) and finally (6,1). Again, note that the match is case-insensitive, and that grid positions can be reused.
 
