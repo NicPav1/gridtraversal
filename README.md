@@ -33,4 +33,4 @@ Create a list of words found in Shakespeare’s early comedy, Love’s Labour’
 
 ## To Run
 1) Download the folder and unzip
-2) In your terminal run the following command: ```python3 ```
+2) In your terminal run the following command: ```python3 PythonChallenge.py```
